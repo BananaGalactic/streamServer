@@ -1,0 +1,591 @@
+05/05/2020 07:25:11 PM [MainThread  ] [INFO ]  Starting server Thread
+05/05/2020 07:25:11 PM [Thread-1    ] [INFO ]  Init socket on Thread-1 OK
+05/05/2020 07:25:11 PM [MainThread  ] [INFO ]  Starting console on MainThread
+05/05/2020 07:25:11 PM [Thread-1    ] [INFO ]  Waiting for client
+05/05/2020 07:26:13 PM [Thread-1    ] [INFO ]  New client connected
+05/05/2020 07:26:13 PM [Thread-2    ] [INFO ]  Thread-2 started for ('192.168.1.10', 53105)
+05/05/2020 07:26:13 PM [Thread-1    ] [INFO ]  Waiting for client
+05/05/2020 07:26:31 PM [Thread-1    ] [INFO ]  New client connected
+05/05/2020 07:26:31 PM [Thread-3    ] [INFO ]  Thread-3 started for ('192.168.1.10', 53117)
+05/05/2020 07:26:31 PM [Thread-1    ] [INFO ]  Waiting for client
+05/05/2020 07:27:15 PM [MainThread  ] [INFO ]  Total connected clients : 2
+05/05/2020 07:27:20 PM [MainThread  ] [INFO ]  Bye
+05/05/2020 07:27:20 PM [Thread-1    ] [INFO ]  Server socket closed
+05/05/2020 07:27:20 PM [Thread-4    ] [INFO ]  Init socket on Thread-4 OK
+05/05/2020 07:27:20 PM [Thread-4    ] [INFO ]  Waiting for client
+05/05/2020 07:27:23 PM [Thread-4    ] [INFO ]  New client connected
+05/05/2020 07:27:23 PM [Thread-5    ] [INFO ]  Thread-5 started for ('192.168.1.10', 53150)
+05/05/2020 07:27:23 PM [Thread-4    ] [INFO ]  Waiting for client
+05/05/2020 07:27:39 PM [Thread-5    ] [INFO ]  Client at ('192.168.1.10', 53150) disconnected...
+05/05/2020 07:41:42 PM [Thread-4    ] [INFO ]  New client connected
+05/05/2020 07:41:42 PM [Thread-6    ] [INFO ]  Thread-6 started for ('192.168.1.52', 56297)
+05/05/2020 07:41:42 PM [Thread-4    ] [INFO ]  Waiting for client
+05/05/2020 07:44:22 PM [Thread-4    ] [INFO ]  New client connected
+05/05/2020 07:44:22 PM [Thread-7    ] [INFO ]  Thread-7 started for ('192.168.1.52', 56316)
+05/05/2020 07:44:22 PM [Thread-4    ] [INFO ]  Waiting for client
+05/05/2020 07:48:25 PM [Thread-4    ] [INFO ]  New client connected
+05/05/2020 07:48:25 PM [Thread-8    ] [INFO ]  Thread-8 started for ('192.168.1.52', 56346)
+05/05/2020 07:48:25 PM [Thread-4    ] [INFO ]  Waiting for client
+05/05/2020 07:49:20 PM [Thread-4    ] [INFO ]  New client connected
+05/05/2020 07:49:20 PM [Thread-9    ] [INFO ]  Thread-9 started for ('192.168.1.52', 56351)
+05/05/2020 07:49:20 PM [Thread-4    ] [INFO ]  Waiting for client
+05/05/2020 07:51:54 PM [Thread-4    ] [INFO ]  New client connected
+05/05/2020 07:51:54 PM [Thread-10   ] [INFO ]  Thread-10 started for ('192.168.1.52', 56361)
+05/05/2020 07:51:54 PM [Thread-4    ] [INFO ]  Waiting for client
+05/05/2020 07:52:34 PM [Thread-10   ] [INFO ]  Client at ('192.168.1.52', 56361) disconnected...
+05/05/2020 07:52:44 PM [Thread-4    ] [INFO ]  New client connected
+05/05/2020 07:52:44 PM [Thread-11   ] [INFO ]  Thread-11 started for ('192.168.1.52', 56371)
+05/05/2020 07:52:44 PM [Thread-4    ] [INFO ]  Waiting for client
+05/05/2020 07:53:14 PM [Thread-4    ] [INFO ]  New client connected
+05/05/2020 07:53:14 PM [Thread-12   ] [INFO ]  Thread-12 started for ('192.168.1.52', 56375)
+05/05/2020 07:53:14 PM [Thread-4    ] [INFO ]  Waiting for client
+05/05/2020 07:55:47 PM [MainThread  ] [INFO ]  Total connected clients : 6
+05/05/2020 07:55:59 PM [MainThread  ] [INFO ]  Bye
+05/05/2020 07:55:59 PM [Thread-4    ] [INFO ]  Server socket closed
+05/05/2020 07:55:59 PM [Thread-13   ] [INFO ]  Init socket on Thread-13 OK
+05/05/2020 07:55:59 PM [Thread-13   ] [INFO ]  Waiting for client
+05/05/2020 07:56:02 PM [MainThread  ] [INFO ]  Total connected clients : 0
+05/05/2020 07:56:24 PM [Thread-13   ] [INFO ]  New client connected
+05/05/2020 07:56:24 PM [Thread-14   ] [INFO ]  Thread-14 started for ('192.168.1.10', 54061)
+05/05/2020 07:56:24 PM [Thread-13   ] [INFO ]  Waiting for client
+05/05/2020 07:59:04 PM [Thread-13   ] [INFO ]  Server socket closed
+05/05/2020 07:59:04 PM [MainThread  ] [INFO ]  Bye
+05/05/2020 07:59:15 PM [MainThread  ] [INFO ]  Starting server Thread
+05/05/2020 07:59:15 PM [Thread-1    ] [INFO ]  Init socket on Thread-1 OK
+05/05/2020 07:59:15 PM [MainThread  ] [INFO ]  Starting console on MainThread
+05/05/2020 07:59:15 PM [Thread-1    ] [INFO ]  Waiting for client
+05/05/2020 08:00:13 PM [Thread-1    ] [INFO ]  New client connected
+05/05/2020 08:00:13 PM [Thread-2    ] [INFO ]  Thread-2 started for ('192.168.1.10', 54198)
+05/05/2020 08:00:13 PM [Thread-1    ] [INFO ]  Waiting for client
+05/05/2020 08:00:34 PM [MainThread  ] [INFO ]  Bye
+05/05/2020 08:00:34 PM [Thread-1    ] [INFO ]  Server socket closed
+05/05/2020 08:00:38 PM [MainThread  ] [INFO ]  Starting server Thread
+05/05/2020 08:00:38 PM [Thread-1    ] [INFO ]  Init socket on Thread-1 OK
+05/05/2020 08:00:38 PM [MainThread  ] [INFO ]  Starting console on MainThread
+05/05/2020 08:00:38 PM [Thread-1    ] [INFO ]  Waiting for client
+05/05/2020 08:02:06 PM [Thread-1    ] [INFO ]  New client connected
+05/05/2020 08:02:06 PM [Thread-2    ] [INFO ]  Thread-2 started for ('192.168.1.10', 54276)
+05/05/2020 08:02:06 PM [Thread-1    ] [INFO ]  Waiting for client
+05/05/2020 08:02:45 PM [Thread-2    ] [INFO ]  Client at ('192.168.1.10', 54276) disconnected...
+05/05/2020 08:02:54 PM [MainThread  ] [INFO ]  Bye
+05/05/2020 08:02:54 PM [Thread-1    ] [INFO ]  Server socket closed
+05/05/2020 08:05:32 PM [MainThread  ] [INFO ]  Starting server Thread
+05/05/2020 08:05:32 PM [Thread-1    ] [INFO ]  Init socket on Thread-1 OK
+05/05/2020 08:05:32 PM [MainThread  ] [INFO ]  Starting console on MainThread
+05/05/2020 08:05:32 PM [Thread-1    ] [INFO ]  Waiting for client
+05/05/2020 08:05:34 PM [Thread-1    ] [INFO ]  New client connected
+05/05/2020 08:05:34 PM [Thread-2    ] [INFO ]  Thread-2 started for ('192.168.1.10', 54409)
+05/05/2020 08:05:34 PM [Thread-1    ] [INFO ]  Waiting for client
+05/05/2020 08:06:01 PM [Thread-2    ] [INFO ]  Client at ('192.168.1.10', 54409) disconnected...
+05/05/2020 08:06:16 PM [MainThread  ] [INFO ]  Total connected clients : 0
+05/05/2020 08:11:33 PM [MainThread  ] [INFO ]  Bye
+05/05/2020 08:11:33 PM [Thread-1    ] [INFO ]  Server socket closed
+05/05/2020 08:11:59 PM [MainThread  ] [INFO ]  Starting server Thread
+05/05/2020 08:11:59 PM [Thread-1    ] [INFO ]  Init socket on Thread-1 OK
+05/05/2020 08:11:59 PM [MainThread  ] [INFO ]  Starting console on MainThread
+05/05/2020 08:11:59 PM [Thread-1    ] [INFO ]  Waiting for client
+05/05/2020 08:12:02 PM [Thread-1    ] [INFO ]  New client connected
+05/05/2020 08:12:02 PM [Thread-2    ] [INFO ]  Thread-2 started for ('192.168.1.10', 54645)
+05/05/2020 08:12:02 PM [Thread-1    ] [INFO ]  Waiting for client
+05/05/2020 08:12:09 PM [MainThread  ] [INFO ]  Total connected clients : 1
+05/05/2020 08:12:17 PM [MainThread  ] [INFO ]  Total connected clients : 1
+05/05/2020 08:12:24 PM [MainThread  ] [INFO ]  Total connected clients : 1
+05/05/2020 08:12:28 PM [MainThread  ] [INFO ]  Total connected clients : 1
+05/05/2020 08:12:39 PM [MainThread  ] [INFO ]  Total connected clients : 1
+05/05/2020 08:12:46 PM [Thread-2    ] [INFO ]  Client at ('192.168.1.10', 54645) disconnected...
+05/05/2020 08:12:50 PM [MainThread  ] [INFO ]  Total connected clients : 0
+05/05/2020 08:13:49 PM [MainThread  ] [INFO ]  Bye
+05/05/2020 08:13:49 PM [Thread-1    ] [INFO ]  Server socket closed
+05/05/2020 08:13:50 PM [MainThread  ] [INFO ]  Starting server Thread
+05/05/2020 08:13:50 PM [Thread-1    ] [INFO ]  Init socket on Thread-1 OK
+05/05/2020 08:13:50 PM [MainThread  ] [INFO ]  Starting console on MainThread
+05/05/2020 08:13:50 PM [Thread-1    ] [INFO ]  Waiting for client
+05/05/2020 08:13:54 PM [Thread-1    ] [INFO ]  New client connected
+05/05/2020 08:13:54 PM [Thread-2    ] [INFO ]  Thread-2 started for ('192.168.1.10', 54709)
+05/05/2020 08:13:54 PM [Thread-1    ] [INFO ]  Waiting for client
+05/05/2020 08:14:03 PM [MainThread  ] [INFO ]  Total connected clients : 1
+05/05/2020 08:14:08 PM [MainThread  ] [INFO ]  Total connected clients : 1
+05/05/2020 08:14:10 PM [MainThread  ] [INFO ]  Total connected clients : 1
+05/05/2020 08:14:11 PM [MainThread  ] [INFO ]  Total connected clients : 1
+05/05/2020 08:17:02 PM [MainThread  ] [INFO ]  Total connected clients : 1
+05/05/2020 08:21:35 PM [Thread-1    ] [INFO ]  New client connected
+05/05/2020 08:21:35 PM [Thread-3    ] [INFO ]  Thread-3 started for ('192.168.1.52', 56475)
+05/05/2020 08:21:35 PM [Thread-1    ] [INFO ]  Waiting for client
+05/05/2020 08:26:42 PM [MainThread  ] [INFO ]  Total connected clients : 2
+05/05/2020 08:26:44 PM [MainThread  ] [INFO ]  Total connected clients : 2
+05/05/2020 08:26:47 PM [MainThread  ] [INFO ]  Total connected clients : 2
+05/05/2020 08:29:47 PM [MainThread  ] [INFO ]  Bye
+05/05/2020 08:29:47 PM [Thread-1    ] [INFO ]  Server socket closed
+05/05/2020 08:30:44 PM [MainThread  ] [INFO ]  Starting server Thread
+05/05/2020 08:30:44 PM [Thread-1    ] [INFO ]  Init socket on Thread-1 OK
+05/05/2020 08:30:44 PM [MainThread  ] [INFO ]  Starting console on MainThread
+05/05/2020 08:30:44 PM [Thread-1    ] [INFO ]  Waiting for client
+05/05/2020 08:30:48 PM [Thread-1    ] [INFO ]  New client connected
+05/05/2020 08:30:48 PM [Thread-2    ] [INFO ]  Thread-2 started for ('192.168.1.10', 55269)
+05/05/2020 08:30:48 PM [Thread-1    ] [INFO ]  Waiting for client
+05/05/2020 08:30:56 PM [MainThread  ] [INFO ]  Client infos : 1
+05/05/2020 08:31:56 PM [MainThread  ] [INFO ]  Bye
+05/05/2020 08:31:56 PM [Thread-1    ] [INFO ]  Server socket closed
+05/05/2020 08:32:11 PM [MainThread  ] [INFO ]  Starting server Thread
+05/05/2020 08:32:11 PM [Thread-1    ] [INFO ]  Init socket on Thread-1 OK
+05/05/2020 08:32:11 PM [MainThread  ] [INFO ]  Starting console on MainThread
+05/05/2020 08:32:11 PM [Thread-1    ] [INFO ]  Waiting for client
+05/05/2020 08:32:35 PM [Thread-1    ] [INFO ]  New client connected
+05/05/2020 08:32:35 PM [Thread-2    ] [INFO ]  Thread-2 started for ('192.168.1.10', 55337)
+05/05/2020 08:32:35 PM [Thread-1    ] [INFO ]  Waiting for client
+05/05/2020 08:33:18 PM [MainThread  ] [INFO ]  Bye
+05/05/2020 08:33:18 PM [Thread-1    ] [INFO ]  Server socket closed
+05/05/2020 08:33:38 PM [MainThread  ] [INFO ]  Starting server Thread
+05/05/2020 08:33:38 PM [Thread-1    ] [INFO ]  Init socket on Thread-1 OK
+05/05/2020 08:33:38 PM [MainThread  ] [INFO ]  Starting console on MainThread
+05/05/2020 08:33:38 PM [Thread-1    ] [INFO ]  Waiting for client
+05/05/2020 08:33:39 PM [Thread-1    ] [INFO ]  New client connected
+05/05/2020 08:33:39 PM [Thread-2    ] [INFO ]  Thread-2 started for ('192.168.1.10', 55387)
+05/05/2020 08:33:39 PM [Thread-1    ] [INFO ]  Waiting for client
+05/05/2020 08:36:41 PM [MainThread  ] [INFO ]  Bye
+05/05/2020 08:36:41 PM [Thread-1    ] [INFO ]  Server socket closed
+05/05/2020 08:37:04 PM [MainThread  ] [INFO ]  Starting server Thread
+05/05/2020 08:37:04 PM [Thread-1    ] [INFO ]  Init socket on Thread-1 OK
+05/05/2020 08:37:04 PM [MainThread  ] [INFO ]  Starting console on MainThread
+05/05/2020 08:37:04 PM [Thread-1    ] [INFO ]  Waiting for client
+05/05/2020 08:37:07 PM [Thread-1    ] [INFO ]  New client connected
+05/05/2020 08:37:07 PM [Thread-2    ] [INFO ]  Thread-2 started for ('192.168.1.10', 55509)
+05/05/2020 08:37:07 PM [Thread-1    ] [INFO ]  Waiting for client
+05/05/2020 08:37:41 PM [Thread-1    ] [INFO ]  New client connected
+05/05/2020 08:37:41 PM [Thread-3    ] [INFO ]  Thread-3 started for ('192.168.1.52', 56493)
+05/05/2020 08:37:41 PM [Thread-1    ] [INFO ]  Waiting for client
+05/05/2020 08:39:50 PM [MainThread  ] [INFO ]  Bye
+05/05/2020 08:39:50 PM [Thread-1    ] [INFO ]  Server socket closed
+05/05/2020 08:39:58 PM [MainThread  ] [INFO ]  Starting server Thread
+05/05/2020 08:39:58 PM [Thread-1    ] [INFO ]  Init socket on Thread-1 OK
+05/05/2020 08:39:58 PM [MainThread  ] [INFO ]  Starting console on MainThread
+05/05/2020 08:39:58 PM [Thread-1    ] [INFO ]  Waiting for client
+05/05/2020 08:39:58 PM [Thread-1    ] [INFO ]  New client connected
+05/05/2020 08:39:58 PM [Thread-2    ] [INFO ]  Thread-2 started for ('192.168.1.52', 56501)
+05/05/2020 08:39:58 PM [Thread-1    ] [INFO ]  Waiting for client
+05/05/2020 08:40:06 PM [Thread-1    ] [INFO ]  New client connected
+05/05/2020 08:40:06 PM [Thread-3    ] [INFO ]  Thread-3 started for ('192.168.1.10', 55609)
+05/05/2020 08:40:06 PM [Thread-1    ] [INFO ]  Waiting for client
+05/05/2020 08:40:47 PM [Thread-2    ] [INFO ]  Client at ('192.168.1.52', 56501) disconnected...
+05/05/2020 08:40:50 PM [Thread-1    ] [INFO ]  New client connected
+05/05/2020 08:40:50 PM [Thread-4    ] [INFO ]  Thread-4 started for ('192.168.1.52', 56502)
+05/05/2020 08:40:50 PM [Thread-1    ] [INFO ]  Waiting for client
+05/05/2020 08:42:10 PM [Thread-4    ] [INFO ]  Client at ('192.168.1.52', 56502) disconnected...
+05/05/2020 08:42:25 PM [MainThread  ] [INFO ]  Bye
+05/05/2020 08:42:25 PM [Thread-1    ] [INFO ]  Server socket closed
+05/05/2020 08:42:26 PM [MainThread  ] [INFO ]  Starting server Thread
+05/05/2020 08:42:26 PM [Thread-1    ] [INFO ]  Init socket on Thread-1 OK
+05/05/2020 08:42:26 PM [MainThread  ] [INFO ]  Starting console on MainThread
+05/05/2020 08:42:26 PM [Thread-1    ] [INFO ]  Waiting for client
+05/05/2020 08:42:30 PM [Thread-1    ] [INFO ]  New client connected
+05/05/2020 08:42:30 PM [Thread-2    ] [INFO ]  Thread-2 started for ('192.168.1.10', 55691)
+05/05/2020 08:42:30 PM [Thread-1    ] [INFO ]  Waiting for client
+05/05/2020 08:42:52 PM [Thread-1    ] [INFO ]  New client connected
+05/05/2020 08:42:52 PM [Thread-3    ] [INFO ]  Thread-3 started for ('192.168.1.52', 56508)
+05/05/2020 08:42:52 PM [Thread-1    ] [INFO ]  Waiting for client
+05/05/2020 08:44:17 PM [Thread-2    ] [INFO ]  Client at ('192.168.1.10', 55691) disconnected...
+05/05/2020 08:44:22 PM [Thread-1    ] [INFO ]  New client connected
+05/05/2020 08:44:22 PM [Thread-4    ] [INFO ]  Thread-4 started for ('192.168.1.10', 55752)
+05/05/2020 08:44:22 PM [Thread-1    ] [INFO ]  Waiting for client
+05/05/2020 08:45:21 PM [Thread-4    ] [INFO ]  Client at ('192.168.1.10', 55752) disconnected...
+05/06/2020 02:53:43 PM [MainThread  ] [INFO ]  Starting server Thread
+05/06/2020 02:53:43 PM [Thread-1    ] [INFO ]  Init socket on Thread-1 OK
+05/06/2020 02:53:43 PM [MainThread  ] [INFO ]  Starting console on MainThread
+05/06/2020 02:53:43 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 02:55:06 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 02:55:06 PM [Thread-2    ] [INFO ]  Thread-2 started for ('192.168.1.10', 57555)
+05/06/2020 02:55:06 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 02:55:06 PM [Thread-2    ] [INFO ]  Client at ('192.168.1.10', 57555) disconnected...
+05/06/2020 02:56:34 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 02:56:34 PM [Thread-3    ] [INFO ]  Thread-3 started for ('192.168.1.10', 57613)
+05/06/2020 02:56:34 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 02:56:34 PM [Thread-3    ] [INFO ]  Client at ('192.168.1.10', 57613) disconnected...
+05/06/2020 02:57:12 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 02:57:12 PM [Thread-4    ] [INFO ]  Thread-4 started for ('192.168.1.10', 57641)
+05/06/2020 02:57:12 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 02:57:42 PM [Thread-4    ] [INFO ]  Client at ('192.168.1.10', 57641) disconnected...
+05/06/2020 02:57:50 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 02:57:50 PM [Thread-5    ] [INFO ]  Thread-5 started for ('192.168.1.10', 57664)
+05/06/2020 02:57:50 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 02:57:50 PM [Thread-5    ] [INFO ]  Client at ('192.168.1.10', 57664) disconnected...
+05/06/2020 03:00:12 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 03:00:12 PM [Thread-6    ] [INFO ]  Thread-6 started for ('192.168.1.10', 57747)
+05/06/2020 03:00:12 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 03:00:12 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 03:00:12 PM [Thread-7    ] [INFO ]  Thread-7 started for ('192.168.1.10', 57748)
+05/06/2020 03:00:12 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 03:03:20 PM [Thread-7    ] [INFO ]  Client at ('192.168.1.10', 57748) disconnected...
+05/06/2020 03:03:20 PM [Thread-6    ] [INFO ]  Client at ('192.168.1.10', 57747) disconnected...
+05/06/2020 03:03:29 PM [MainThread  ] [INFO ]  Bye
+05/06/2020 03:03:29 PM [Thread-1    ] [INFO ]  Server socket closed
+05/06/2020 03:03:29 PM [Thread-8    ] [INFO ]  Init socket on Thread-8 OK
+05/06/2020 03:03:29 PM [Thread-8    ] [INFO ]  Waiting for client
+05/06/2020 03:03:48 PM [Thread-8    ] [INFO ]  New client connected
+05/06/2020 03:03:48 PM [Thread-9    ] [INFO ]  Thread-9 started for ('192.168.1.10', 57881)
+05/06/2020 03:03:48 PM [Thread-8    ] [INFO ]  Waiting for client
+05/06/2020 03:03:48 PM [Thread-8    ] [INFO ]  New client connected
+05/06/2020 03:03:48 PM [Thread-10   ] [INFO ]  Thread-10 started for ('192.168.1.10', 57882)
+05/06/2020 03:03:48 PM [Thread-8    ] [INFO ]  Waiting for client
+05/06/2020 03:06:39 PM [Thread-9    ] [INFO ]  Client at ('192.168.1.10', 57881) disconnected...
+05/06/2020 03:06:39 PM [Thread-10   ] [INFO ]  Client at ('192.168.1.10', 57882) disconnected...
+05/06/2020 03:06:49 PM [Thread-8    ] [INFO ]  New client connected
+05/06/2020 03:06:49 PM [Thread-11   ] [INFO ]  Thread-11 started for ('192.168.1.10', 57991)
+05/06/2020 03:06:49 PM [Thread-8    ] [INFO ]  Waiting for client
+05/06/2020 03:06:49 PM [Thread-11   ] [INFO ]  Client at ('192.168.1.10', 57991) disconnected...
+05/06/2020 03:07:22 PM [Thread-8    ] [INFO ]  New client connected
+05/06/2020 03:07:22 PM [Thread-12   ] [INFO ]  Thread-12 started for ('192.168.1.10', 58013)
+05/06/2020 03:07:22 PM [Thread-8    ] [INFO ]  Waiting for client
+05/06/2020 03:09:23 PM [MainThread  ] [INFO ]  Bye
+05/06/2020 03:09:23 PM [Thread-8    ] [INFO ]  Server socket closed
+05/06/2020 03:16:06 PM [MainThread  ] [INFO ]  Starting server Thread
+05/06/2020 03:16:06 PM [Thread-1    ] [INFO ]  Init socket on Thread-1 OK
+05/06/2020 03:16:06 PM [MainThread  ] [INFO ]  Starting console on MainThread
+05/06/2020 03:16:06 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 03:16:07 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 03:16:07 PM [Thread-2    ] [INFO ]  Thread-2 started for ('192.168.1.10', 58327)
+05/06/2020 03:16:07 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 03:16:47 PM [MainThread  ] [INFO ]  Bye
+05/06/2020 03:16:47 PM [Thread-1    ] [INFO ]  Server socket closed
+05/06/2020 03:16:56 PM [MainThread  ] [INFO ]  Starting server Thread
+05/06/2020 03:16:56 PM [Thread-1    ] [INFO ]  Init socket on Thread-1 OK
+05/06/2020 03:16:56 PM [MainThread  ] [INFO ]  Starting console on MainThread
+05/06/2020 03:16:56 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 03:16:56 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 03:16:56 PM [Thread-2    ] [INFO ]  Thread-2 started for ('192.168.1.10', 58355)
+05/06/2020 03:16:56 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 03:17:48 PM [Thread-2    ] [INFO ]  Client at ('192.168.1.10', 58355) disconnected...
+05/06/2020 03:17:52 PM [MainThread  ] [INFO ]  Bye
+05/06/2020 03:17:52 PM [Thread-1    ] [INFO ]  Server socket closed
+05/06/2020 03:17:53 PM [MainThread  ] [INFO ]  Starting server Thread
+05/06/2020 03:17:53 PM [Thread-1    ] [INFO ]  Init socket on Thread-1 OK
+05/06/2020 03:17:53 PM [MainThread  ] [INFO ]  Starting console on MainThread
+05/06/2020 03:17:53 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 03:17:58 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 03:17:58 PM [Thread-2    ] [INFO ]  Thread-2 started for ('192.168.1.10', 58394)
+05/06/2020 03:17:58 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 03:18:42 PM [MainThread  ] [INFO ]  Bye
+05/06/2020 03:18:42 PM [Thread-1    ] [INFO ]  Server socket closed
+05/06/2020 03:18:52 PM [MainThread  ] [INFO ]  Starting server Thread
+05/06/2020 03:18:52 PM [Thread-1    ] [INFO ]  Init socket on Thread-1 OK
+05/06/2020 03:18:52 PM [MainThread  ] [INFO ]  Starting console on MainThread
+05/06/2020 03:18:52 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 03:18:56 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 03:18:56 PM [Thread-2    ] [INFO ]  Thread-2 started for ('192.168.1.10', 58430)
+05/06/2020 03:18:56 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 03:19:14 PM [MainThread  ] [INFO ]  Bye
+05/06/2020 03:19:14 PM [Thread-1    ] [INFO ]  Server socket closed
+05/06/2020 03:19:19 PM [MainThread  ] [INFO ]  Starting server Thread
+05/06/2020 03:19:19 PM [Thread-1    ] [INFO ]  Init socket on Thread-1 OK
+05/06/2020 03:19:19 PM [MainThread  ] [INFO ]  Starting console on MainThread
+05/06/2020 03:19:19 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 03:19:21 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 03:19:21 PM [Thread-2    ] [INFO ]  Thread-2 started for ('192.168.1.10', 58445)
+05/06/2020 03:19:21 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 03:21:22 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 03:21:22 PM [Thread-3    ] [INFO ]  Thread-3 started for ('192.168.1.52', 56675)
+05/06/2020 03:21:22 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 03:21:32 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 03:21:32 PM [Thread-4    ] [INFO ]  Thread-4 started for ('192.168.1.52', 56676)
+05/06/2020 03:21:32 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 03:21:33 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 03:21:33 PM [Thread-5    ] [INFO ]  Thread-5 started for ('192.168.1.52', 56677)
+05/06/2020 03:21:33 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 03:23:16 PM [MainThread  ] [INFO ]  Bye
+05/06/2020 03:23:16 PM [Thread-1    ] [INFO ]  Server socket closed
+05/06/2020 03:25:11 PM [MainThread  ] [INFO ]  Starting server Thread
+05/06/2020 03:25:11 PM [Thread-1    ] [INFO ]  Init socket on Thread-1 OK
+05/06/2020 03:25:11 PM [MainThread  ] [INFO ]  Starting console on MainThread
+05/06/2020 03:25:11 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 03:25:38 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 03:25:38 PM [Thread-2    ] [INFO ]  Thread-2 started for ('192.168.1.10', 58673)
+05/06/2020 03:25:38 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 03:25:48 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 03:25:48 PM [Thread-3    ] [INFO ]  Thread-3 started for ('192.168.1.52', 56852)
+05/06/2020 03:25:48 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 03:25:51 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 03:25:51 PM [Thread-4    ] [INFO ]  Thread-4 started for ('192.168.1.52', 56853)
+05/06/2020 03:25:51 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 03:27:04 PM [MainThread  ] [INFO ]  Bye
+05/06/2020 03:27:04 PM [Thread-1    ] [INFO ]  Server socket closed
+05/06/2020 03:27:20 PM [MainThread  ] [INFO ]  Starting server Thread
+05/06/2020 03:27:20 PM [Thread-1    ] [INFO ]  Init socket on Thread-1 OK
+05/06/2020 03:27:20 PM [MainThread  ] [INFO ]  Starting console on MainThread
+05/06/2020 03:27:20 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 03:27:23 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 03:27:23 PM [Thread-2    ] [INFO ]  Thread-2 started for ('192.168.1.10', 58742)
+05/06/2020 03:27:23 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 03:27:26 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 03:27:26 PM [Thread-3    ] [INFO ]  Thread-3 started for ('192.168.1.52', 56869)
+05/06/2020 03:27:26 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 03:27:38 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 03:27:38 PM [Thread-4    ] [INFO ]  Thread-4 started for ('192.168.1.52', 56871)
+05/06/2020 03:27:38 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 03:28:05 PM [Thread-3    ] [INFO ]  Client at ('192.168.1.52', 56869) disconnected...
+05/06/2020 03:28:05 PM [Thread-4    ] [INFO ]  Client at ('192.168.1.52', 56871) disconnected...
+05/06/2020 03:28:09 PM [Thread-2    ] [INFO ]  Client at ('192.168.1.10', 58742) disconnected...
+05/06/2020 03:29:25 PM [MainThread  ] [INFO ]  Bye
+05/06/2020 03:29:25 PM [Thread-1    ] [INFO ]  Server socket closed
+05/06/2020 03:29:25 PM [MainThread  ] [INFO ]  Starting server Thread
+05/06/2020 03:29:25 PM [Thread-1    ] [INFO ]  Init socket on Thread-1 OK
+05/06/2020 03:29:25 PM [MainThread  ] [INFO ]  Starting console on MainThread
+05/06/2020 03:29:25 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 03:29:28 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 03:29:28 PM [Thread-2    ] [INFO ]  Thread-2 started for ('192.168.1.10', 58821)
+05/06/2020 03:29:28 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 03:29:41 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 03:29:41 PM [Thread-3    ] [INFO ]  Thread-3 started for ('192.168.1.52', 56883)
+05/06/2020 03:29:41 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 03:32:52 PM [Thread-3    ] [INFO ]  Client at ('192.168.1.52', 56883) disconnected...
+05/06/2020 03:32:55 PM [Thread-2    ] [INFO ]  Client at ('192.168.1.10', 58821) disconnected...
+05/06/2020 03:34:45 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 03:34:45 PM [Thread-4    ] [INFO ]  Thread-4 started for ('192.168.1.10', 59007)
+05/06/2020 03:34:45 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 03:35:12 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 03:35:12 PM [Thread-5    ] [INFO ]  Thread-5 started for ('192.168.1.52', 56905)
+05/06/2020 03:35:12 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 03:36:33 PM [Thread-4    ] [INFO ]  Client at ('192.168.1.10', 59007) disconnected...
+05/06/2020 03:36:47 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 03:36:47 PM [Thread-6    ] [INFO ]  Thread-6 started for ('192.168.1.10', 59073)
+05/06/2020 03:36:47 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 03:39:12 PM [Thread-6    ] [INFO ]  Client at ('192.168.1.10', 59073) disconnected...
+05/06/2020 03:42:10 PM [MainThread  ] [INFO ]  Bye
+05/06/2020 03:42:10 PM [Thread-1    ] [INFO ]  Server socket closed
+05/06/2020 03:42:11 PM [MainThread  ] [INFO ]  Starting server Thread
+05/06/2020 03:42:11 PM [Thread-1    ] [INFO ]  Init socket on Thread-1 OK
+05/06/2020 03:42:11 PM [MainThread  ] [INFO ]  Starting console on MainThread
+05/06/2020 03:42:11 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 03:42:14 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 03:42:14 PM [Thread-2    ] [INFO ]  Thread-2 started for ('192.168.1.10', 59270)
+05/06/2020 03:42:14 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 03:43:03 PM [Thread-2    ] [INFO ]  Client at ('192.168.1.10', 59270) disconnected...
+05/06/2020 03:43:08 PM [MainThread  ] [INFO ]  Bye
+05/06/2020 03:43:08 PM [Thread-1    ] [INFO ]  Server socket closed
+05/06/2020 03:43:08 PM [Thread-3    ] [INFO ]  Init socket on Thread-3 OK
+05/06/2020 03:43:08 PM [Thread-3    ] [INFO ]  Waiting for client
+05/06/2020 03:43:18 PM [Thread-3    ] [INFO ]  New client connected
+05/06/2020 03:43:18 PM [Thread-4    ] [INFO ]  Thread-4 started for ('192.168.1.10', 59309)
+05/06/2020 03:43:18 PM [Thread-3    ] [INFO ]  Waiting for client
+05/06/2020 03:43:39 PM [Thread-3    ] [INFO ]  New client connected
+05/06/2020 03:43:39 PM [Thread-5    ] [INFO ]  Thread-5 started for ('192.168.1.52', 56927)
+05/06/2020 03:43:39 PM [Thread-3    ] [INFO ]  Waiting for client
+05/06/2020 03:44:34 PM [Thread-5    ] [INFO ]  Client at ('192.168.1.52', 56927) disconnected...
+05/06/2020 03:44:34 PM [Thread-4    ] [INFO ]  Client at ('192.168.1.10', 59309) disconnected...
+05/06/2020 03:46:28 PM [Thread-3    ] [INFO ]  New client connected
+05/06/2020 03:46:28 PM [Thread-6    ] [INFO ]  Thread-6 started for ('192.168.1.10', 59414)
+05/06/2020 03:46:28 PM [Thread-3    ] [INFO ]  Waiting for client
+05/06/2020 03:47:09 PM [Thread-3    ] [INFO ]  New client connected
+05/06/2020 03:47:09 PM [Thread-7    ] [INFO ]  Thread-7 started for ('192.168.1.52', 56930)
+05/06/2020 03:47:09 PM [Thread-3    ] [INFO ]  Waiting for client
+05/06/2020 03:49:45 PM [Thread-6    ] [INFO ]  Client at ('192.168.1.10', 59414) disconnected...
+05/06/2020 03:49:46 PM [Thread-7    ] [INFO ]  Client at ('192.168.1.52', 56930) disconnected...
+05/06/2020 03:49:48 PM [MainThread  ] [INFO ]  Bye
+05/06/2020 03:49:48 PM [Thread-3    ] [INFO ]  Server socket closed
+05/06/2020 03:49:50 PM [MainThread  ] [INFO ]  Starting server Thread
+05/06/2020 03:49:50 PM [Thread-1    ] [INFO ]  Init socket on Thread-1 OK
+05/06/2020 03:49:50 PM [MainThread  ] [INFO ]  Starting console on MainThread
+05/06/2020 03:49:50 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 03:49:53 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 03:49:53 PM [Thread-2    ] [INFO ]  Thread-2 started for ('192.168.1.10', 59532)
+05/06/2020 03:49:53 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 03:49:55 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 03:49:55 PM [Thread-3    ] [INFO ]  Thread-3 started for ('192.168.1.52', 56934)
+05/06/2020 03:49:55 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 03:51:12 PM [Thread-3    ] [INFO ]  Client at ('192.168.1.52', 56934) disconnected...
+05/06/2020 03:53:16 PM [MainThread  ] [INFO ]  Bye
+05/06/2020 03:53:16 PM [Thread-1    ] [INFO ]  Server socket closed
+05/06/2020 03:53:17 PM [MainThread  ] [INFO ]  Starting server Thread
+05/06/2020 03:53:17 PM [Thread-1    ] [INFO ]  Init socket on Thread-1 OK
+05/06/2020 03:53:17 PM [MainThread  ] [INFO ]  Starting console on MainThread
+05/06/2020 03:53:17 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 03:53:17 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 03:53:17 PM [Thread-2    ] [INFO ]  Thread-2 started for ('192.168.1.10', 59655)
+05/06/2020 03:53:17 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 03:53:22 PM [Thread-2    ] [INFO ]  Client at ('192.168.1.10', 59655) disconnected...
+05/06/2020 03:53:23 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 03:53:23 PM [Thread-3    ] [INFO ]  Thread-3 started for ('192.168.1.10', 59659)
+05/06/2020 03:53:23 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 03:53:46 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 03:53:46 PM [Thread-4    ] [INFO ]  Thread-4 started for ('192.168.1.52', 56942)
+05/06/2020 03:53:46 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 03:54:11 PM [Thread-4    ] [INFO ]  Client at ('192.168.1.52', 56942) disconnected...
+05/06/2020 03:54:15 PM [Thread-3    ] [INFO ]  Client at ('192.168.1.10', 59659) disconnected...
+05/06/2020 03:57:09 PM [MainThread  ] [INFO ]  Bye
+05/06/2020 03:57:09 PM [Thread-1    ] [INFO ]  Server socket closed
+05/06/2020 03:57:18 PM [MainThread  ] [INFO ]  Starting server Thread
+05/06/2020 03:57:18 PM [Thread-1    ] [INFO ]  Init socket on Thread-1 OK
+05/06/2020 03:57:18 PM [MainThread  ] [INFO ]  Starting console on MainThread
+05/06/2020 03:57:18 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 03:57:22 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 03:57:22 PM [Thread-2    ] [INFO ]  Thread-2 started for ('192.168.1.10', 59800)
+05/06/2020 03:57:22 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 03:58:33 PM [MainThread  ] [INFO ]  Bye
+05/06/2020 03:58:33 PM [Thread-1    ] [INFO ]  Server socket closed
+05/06/2020 03:58:34 PM [MainThread  ] [INFO ]  Starting server Thread
+05/06/2020 03:58:34 PM [Thread-1    ] [INFO ]  Init socket on Thread-1 OK
+05/06/2020 03:58:34 PM [MainThread  ] [INFO ]  Starting console on MainThread
+05/06/2020 03:58:34 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 03:58:35 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 03:58:35 PM [Thread-2    ] [INFO ]  Thread-2 started for ('192.168.1.10', 59845)
+05/06/2020 03:58:35 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 03:58:58 PM [MainThread  ] [INFO ]  Bye
+05/06/2020 03:58:58 PM [Thread-1    ] [INFO ]  Server socket closed
+05/06/2020 03:58:59 PM [MainThread  ] [INFO ]  Starting server Thread
+05/06/2020 03:58:59 PM [Thread-1    ] [INFO ]  Init socket on Thread-1 OK
+05/06/2020 03:58:59 PM [MainThread  ] [INFO ]  Starting console on MainThread
+05/06/2020 03:58:59 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 03:59:01 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 03:59:01 PM [Thread-2    ] [INFO ]  Thread-2 started for ('192.168.1.10', 59862)
+05/06/2020 03:59:01 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 03:59:24 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 03:59:24 PM [Thread-3    ] [INFO ]  Thread-3 started for ('192.168.1.52', 56952)
+05/06/2020 03:59:24 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 04:00:27 PM [MainThread  ] [INFO ]  Bye
+05/06/2020 04:00:27 PM [Thread-1    ] [INFO ]  Server socket closed
+05/06/2020 04:01:12 PM [MainThread  ] [INFO ]  Starting server Thread
+05/06/2020 04:01:12 PM [Thread-1    ] [INFO ]  Init socket on Thread-1 OK
+05/06/2020 04:01:12 PM [MainThread  ] [INFO ]  Starting console on MainThread
+05/06/2020 04:01:12 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 04:01:15 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 04:01:15 PM [Thread-2    ] [INFO ]  Thread-2 started for ('192.168.1.10', 59940)
+05/06/2020 04:01:15 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 04:01:30 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 04:01:30 PM [Thread-3    ] [INFO ]  Thread-3 started for ('192.168.1.52', 56953)
+05/06/2020 04:01:30 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 04:02:25 PM [MainThread  ] [INFO ]  Bye
+05/06/2020 04:02:25 PM [Thread-1    ] [INFO ]  Server socket closed
+05/06/2020 04:03:39 PM [MainThread  ] [INFO ]  Starting server Thread
+05/06/2020 04:03:39 PM [Thread-1    ] [INFO ]  Init socket on Thread-1 OK
+05/06/2020 04:03:39 PM [MainThread  ] [INFO ]  Starting console on MainThread
+05/06/2020 04:03:39 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 04:03:41 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 04:03:41 PM [Thread-2    ] [INFO ]  Thread-2 started for ('192.168.1.10', 60034)
+05/06/2020 04:03:41 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 04:05:34 PM [MainThread  ] [INFO ]  Bye
+05/06/2020 04:05:34 PM [Thread-1    ] [INFO ]  Server socket closed
+05/06/2020 04:05:34 PM [MainThread  ] [INFO ]  Starting server Thread
+05/06/2020 04:05:34 PM [Thread-1    ] [INFO ]  Init socket on Thread-1 OK
+05/06/2020 04:05:34 PM [MainThread  ] [INFO ]  Starting console on MainThread
+05/06/2020 04:05:34 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 04:05:38 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 04:05:38 PM [Thread-2    ] [INFO ]  Thread-2 started for ('192.168.1.10', 60105)
+05/06/2020 04:05:38 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 04:05:43 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 04:05:43 PM [Thread-3    ] [INFO ]  Thread-3 started for ('192.168.1.52', 56963)
+05/06/2020 04:05:43 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 04:05:58 PM [Thread-2    ] [INFO ]  Client at ('192.168.1.10', 60105) disconnected...
+05/06/2020 04:06:22 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 04:06:22 PM [Thread-4    ] [INFO ]  Thread-4 started for ('192.168.1.10', 60134)
+05/06/2020 04:06:22 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 04:07:02 PM [MainThread  ] [INFO ]  Bye
+05/06/2020 04:07:02 PM [Thread-1    ] [INFO ]  Server socket closed
+05/06/2020 04:07:19 PM [MainThread  ] [INFO ]  Starting server Thread
+05/06/2020 04:07:19 PM [Thread-1    ] [INFO ]  Init socket on Thread-1 OK
+05/06/2020 04:07:19 PM [MainThread  ] [INFO ]  Starting console on MainThread
+05/06/2020 04:07:19 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 04:07:22 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 04:07:22 PM [Thread-2    ] [INFO ]  Thread-2 started for ('192.168.1.10', 60177)
+05/06/2020 04:07:22 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 04:08:32 PM [Thread-2    ] [INFO ]  Client at ('192.168.1.10', 60177) disconnected...
+05/06/2020 04:08:38 PM [MainThread  ] [INFO ]  Bye
+05/06/2020 04:08:38 PM [Thread-1    ] [INFO ]  Server socket closed
+05/06/2020 04:08:40 PM [MainThread  ] [INFO ]  Starting server Thread
+05/06/2020 04:08:40 PM [Thread-1    ] [INFO ]  Init socket on Thread-1 OK
+05/06/2020 04:08:40 PM [MainThread  ] [INFO ]  Starting console on MainThread
+05/06/2020 04:08:40 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 04:08:43 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 04:08:43 PM [Thread-2    ] [INFO ]  Thread-2 started for ('192.168.1.10', 60226)
+05/06/2020 04:08:43 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 04:08:54 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 04:08:54 PM [Thread-3    ] [INFO ]  Thread-3 started for ('192.168.1.52', 56970)
+05/06/2020 04:08:54 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 04:10:38 PM [MainThread  ] [INFO ]  Bye
+05/06/2020 04:10:38 PM [Thread-1    ] [INFO ]  Server socket closed
+05/06/2020 04:10:41 PM [MainThread  ] [INFO ]  Starting server Thread
+05/06/2020 04:10:41 PM [Thread-1    ] [INFO ]  Init socket on Thread-1 OK
+05/06/2020 04:10:41 PM [MainThread  ] [INFO ]  Starting console on MainThread
+05/06/2020 04:10:41 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 04:10:42 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 04:10:42 PM [Thread-2    ] [INFO ]  Thread-2 started for ('192.168.1.52', 56972)
+05/06/2020 04:10:42 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 04:10:49 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 04:10:49 PM [Thread-3    ] [INFO ]  Thread-3 started for ('192.168.1.10', 60301)
+05/06/2020 04:10:49 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 04:11:19 PM [MainThread  ] [INFO ]  Bye
+05/06/2020 04:11:19 PM [Thread-1    ] [INFO ]  Server socket closed
+05/06/2020 04:11:23 PM [MainThread  ] [INFO ]  Starting server Thread
+05/06/2020 04:11:23 PM [Thread-1    ] [INFO ]  Init socket on Thread-1 OK
+05/06/2020 04:11:23 PM [MainThread  ] [INFO ]  Starting console on MainThread
+05/06/2020 04:11:23 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 04:12:00 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 04:12:00 PM [Thread-2    ] [INFO ]  Thread-2 started for ('192.168.1.10', 60346)
+05/06/2020 04:12:00 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 04:12:46 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 04:12:46 PM [Thread-3    ] [INFO ]  Thread-3 started for ('192.168.1.10', 60373)
+05/06/2020 04:12:46 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 04:13:12 PM [MainThread  ] [INFO ]  Bye
+05/06/2020 04:13:12 PM [Thread-1    ] [INFO ]  Server socket closed
+05/06/2020 04:16:03 PM [MainThread  ] [INFO ]  Starting server Thread
+05/06/2020 04:16:03 PM [Thread-1    ] [INFO ]  Init socket on Thread-1 OK
+05/06/2020 04:16:03 PM [MainThread  ] [INFO ]  Starting console on MainThread
+05/06/2020 04:16:03 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 04:16:07 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 04:16:07 PM [Thread-2    ] [INFO ]  Thread-2 started for ('192.168.1.10', 60496)
+05/06/2020 04:16:07 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 04:16:21 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 04:16:21 PM [Thread-3    ] [INFO ]  Thread-3 started for ('192.168.1.52', 56982)
+05/06/2020 04:16:21 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 04:16:49 PM [MainThread  ] [INFO ]  Bye
+05/06/2020 04:16:49 PM [Thread-1    ] [INFO ]  Server socket closed
+05/06/2020 04:19:46 PM [MainThread  ] [INFO ]  Starting server Thread
+05/06/2020 04:19:46 PM [Thread-1    ] [INFO ]  Init socket on Thread-1 OK
+05/06/2020 04:19:46 PM [MainThread  ] [INFO ]  Starting console on MainThread
+05/06/2020 04:19:46 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 04:19:52 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 04:19:52 PM [Thread-2    ] [INFO ]  Thread-2 started for ('192.168.1.10', 60629)
+05/06/2020 04:19:52 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 04:21:24 PM [MainThread  ] [INFO ]  Bye
+05/06/2020 04:21:24 PM [Thread-1    ] [INFO ]  Server socket closed
+05/06/2020 04:21:31 PM [MainThread  ] [INFO ]  Starting server Thread
+05/06/2020 04:21:31 PM [Thread-1    ] [INFO ]  Init socket on Thread-1 OK
+05/06/2020 04:21:31 PM [MainThread  ] [INFO ]  Starting console on MainThread
+05/06/2020 04:21:31 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 04:21:40 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 04:21:40 PM [Thread-2    ] [INFO ]  Thread-2 started for ('192.168.1.10', 60696)
+05/06/2020 04:21:40 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 04:22:11 PM [MainThread  ] [INFO ]  Bye
+05/06/2020 04:22:11 PM [Thread-1    ] [INFO ]  Server socket closed
+05/06/2020 04:22:44 PM [MainThread  ] [INFO ]  Starting server Thread
+05/06/2020 04:22:44 PM [Thread-1    ] [INFO ]  Init socket on Thread-1 OK
+05/06/2020 04:22:44 PM [MainThread  ] [INFO ]  Starting console on MainThread
+05/06/2020 04:22:44 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 04:22:45 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 04:22:45 PM [Thread-2    ] [INFO ]  Thread-2 started for ('192.168.1.10', 60738)
+05/06/2020 04:22:45 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 04:26:12 PM [MainThread  ] [INFO ]  Bye
+05/06/2020 04:26:12 PM [Thread-1    ] [INFO ]  Server socket closed
+05/06/2020 04:26:13 PM [MainThread  ] [INFO ]  Starting server Thread
+05/06/2020 04:26:13 PM [Thread-1    ] [INFO ]  Init socket on Thread-1 OK
+05/06/2020 04:26:13 PM [MainThread  ] [INFO ]  Starting console on MainThread
+05/06/2020 04:26:13 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 04:26:16 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 04:26:16 PM [Thread-2    ] [INFO ]  Thread-2 started for ('192.168.1.10', 60861)
+05/06/2020 04:26:16 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 04:28:33 PM [Thread-1    ] [INFO ]  Server socket closed
+05/06/2020 04:28:33 PM [MainThread  ] [INFO ]  Bye
+05/06/2020 04:28:34 PM [MainThread  ] [INFO ]  Starting server Thread
+05/06/2020 04:28:34 PM [Thread-1    ] [INFO ]  Init socket on Thread-1 OK
+05/06/2020 04:28:34 PM [MainThread  ] [INFO ]  Starting console on MainThread
+05/06/2020 04:28:34 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 04:28:37 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 04:28:37 PM [Thread-2    ] [INFO ]  Thread-2 started for ('192.168.1.10', 60944)
+05/06/2020 04:28:37 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 04:30:56 PM [MainThread  ] [INFO ]  Bye
+05/06/2020 04:30:56 PM [Thread-1    ] [INFO ]  Server socket closed
+05/06/2020 04:31:02 PM [MainThread  ] [INFO ]  Starting server Thread
+05/06/2020 04:31:02 PM [Thread-1    ] [INFO ]  Init socket on Thread-1 OK
+05/06/2020 04:31:02 PM [MainThread  ] [INFO ]  Starting console on MainThread
+05/06/2020 04:31:02 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 04:31:06 PM [Thread-1    ] [INFO ]  New client connected
+05/06/2020 04:31:06 PM [Thread-2    ] [INFO ]  Thread-2 started for ('192.168.1.10', 61028)
+05/06/2020 04:31:06 PM [Thread-1    ] [INFO ]  Waiting for client
+05/06/2020 04:31:30 PM [Thread-2    ] [INFO ]  Client at ('192.168.1.10', 61028) disconnected...
